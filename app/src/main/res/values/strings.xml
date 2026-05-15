@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">EV-Grama Charge</string>
+
+    <!-- Login Screen -->
+    <string name="welcome_msg">Welcome to EV-Grama Charge</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="skip_login_debug">Skip to OTP (Debug Mode)</string>
+    <string name="select_role">Select your role to continue:</string>
+    <string name="continue_user">Continue as User</string>
+    <string name="continue_host">Continue as Host</string>
+
+    <!-- User Dashboard -->
+    <string name="user_greeting">Hello, EV Rider!</string>
+    <string name="user_subtext">Ready for your next journey?</string>
+    <string name="find_charger">Find Charger</string>
+    <string name="calculator">Calculator</string>
+    <string name="wallet_label">Wallet: ₹150</string>
+    <string name="history_label">History</string>
+    <string name="recent_activity">Recent Activity</string>
+
+    <!-- Calculator -->
+    <string name="calc_title">Charging Calculator</string>
+    <string name="est_range_added">Est. Range Added</string>
+    <string name="battery_size_label">Battery Size: %1$d kWh</string>
+    <string name="duration_label">Charging Duration: %1$d mins</string>
+    <string name="go_back">Go Back</string>
+
+    <!-- Booking -->
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="booking_success">Booking Confirmed!</string>
+    <string name="booking_success_msg">Your slot at %1$s is reserved.</string>
+    <string name="pay_confirm">Pay &amp; Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="return_map">Return to Map</string>
+
+    <!-- Host Dashboard -->
+    <string name="host_dashboard">Host Dashboard</string>
+    <string name="station_status">Station Status</string>
+    <string name="online_msg">Online &amp; Accepting Bookings</string>
+    <string name="offline_msg">Currently Offline</string>
+    <string name="today_earnings">Today\'s Earnings</string>
+    <string name="total_bookings">Total Bookings</string>
+    <string name="pending_requests">Pending Requests</string>
+    <string name="offline_notice">You are offline. No requests will be received.</string>
+</resources>

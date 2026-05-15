@@ -1,0 +1,21 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
+
+# Local configuration
+local.properties
+
+# Android-specific
+capture/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Firebase
+google-services.json

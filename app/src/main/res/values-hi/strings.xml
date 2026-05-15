@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ईवी-ग्राम चार्ज</string>
+    <string name="welcome_msg">ईवी-ग्राम चार्ज में आपका स्वागत है</string>
+    <string name="phone_label">फ़ोन नंबर</string>
+    <string name="send_otp">ओटीपी भेजें</string>
+    <string name="verify_otp">ओटीपी सत्यापित करें</string>
+    <string name="enter_otp">ओटीपी दर्ज करें</string>
+    <string name="select_role">जारी रखने के लिए अपनी भूमिका चुनें:</string>
+    <string name="continue_user">उपयोगकर्ता के रूप में जारी रखें</string>
+    <string name="continue_host">होस्ट के रूप में जारी रखें</string>
+    <string name="find_charger">चार्जर खोजें</string>
+    <string name="calculator">कैलकुलेटर</string>
+</resources>
