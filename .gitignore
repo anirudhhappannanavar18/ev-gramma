@@ -13,6 +13,7 @@ local.properties
 # Android-specific
 capture/
 *.apk
+!docs/*.apk
 *.ap_
 *.dex
 *.class
